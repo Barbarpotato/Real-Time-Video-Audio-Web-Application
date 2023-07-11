@@ -30,4 +30,3 @@ Advantages:
 
 Disadvantages:
 1. component not appeared in react 18.2.0
-2. 
