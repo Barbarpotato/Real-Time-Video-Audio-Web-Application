@@ -21,12 +21,3 @@ Advantages:
 Disadvantages:
 1. Limited platform support: Video SDK may have limitations in terms of platform compatibility. It might not support all platforms or devices.
 2. Pricing: Depending on the usage and requirements, Video SDK may have a cost associated with it, which can be a consideration for budget-conscious projects.
-
-
-## 100ms
-Advantages:
-1. Ease of use
-2. React Friendly
-
-Disadvantages:
-1. component not appeared in react 18.2.0
