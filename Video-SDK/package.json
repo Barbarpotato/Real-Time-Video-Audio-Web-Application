@@ -1,5 +1,5 @@
 {
-  "name": "agora-demo",
+  "name": "video-sdk",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "agora-rtc-react": "github:AgoraIO-Community/agora-rtc-react#v1.0.0",
+    "@videosdk.live/react-sdk": "^0.1.75",
+    "hls.js": "^0.8.8",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-player": "^2.12.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",
